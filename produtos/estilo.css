@@ -22,12 +22,13 @@
     padding: 0.2px;
     display: flex;
     justify-content: center;
-    background-color: #c7f6d4;
+    background-color: lightgreen;
     font-family: Comic Sans MS, serif;
  
   }
 
   nav li {
+    background-color: #c7f6d4;
     margin: 0 30px;
     font-family: Comic Sans MS, serif;
     justify-content: center;
